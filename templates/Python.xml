@@ -1,5 +1,5 @@
 <templateSet group="Python">
-  <template name="ipdb" value="import pdb&#10;pdb.set_trace()&#10;$END$" description="Import pdb and set a breakpoint" toReformat="false" toShortenFQNames="true">
+  <template name="ipdb" value="import pdb; pdb.set_trace()&#10;$END$" description="Import pdb and set a breakpoint" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>

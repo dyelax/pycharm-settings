@@ -29,6 +29,9 @@
     <keyboard-shortcut first-keystroke="left" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.ShowHiddens">
+    <keyboard-shortcut first-keystroke="shift meta alt period" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>

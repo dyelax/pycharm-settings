@@ -4,4 +4,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="itime" value="from time import time&#10;start = time()&#10;$1$ &#10;&#10;$SELECTION$&#10;print(f'Took {time() - start} seconds')" description="Wrap text in a time check" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+  </template>
 </templateSet>

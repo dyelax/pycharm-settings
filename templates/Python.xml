@@ -4,8 +4,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="itime" value="from time import time&#10;start = time()&#10;$1$ &#10;print(f'Took {time() - start} seconds')&#10;" description="Wrap copied text in a time check" toReformat="false" toShortenFQNames="true">
-    <variable name="1" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+  <template name="itime" value="from time import time&#10;start = time()&#10;$1$ &#10;print(f'$2$ took {time() - start} seconds')&#10;" description="Wrap copied text in a time check" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
+    <variable name="2" expression="lineNumber()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="Python" value="true" />
     </context>

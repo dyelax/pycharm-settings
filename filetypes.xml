@@ -7,7 +7,6 @@
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="stderr" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="alfa" type="PLAIN_TEXT" />
       <mapping ext="ds_store" type="PLAIN_TEXT" />
       <mapping pattern="hw3_backup_m3_moving_object_only_SvS_NAS.yaml" type="YAML" />

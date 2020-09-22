@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="jam" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_jam.dev_jam.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_jam.dev_jam.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

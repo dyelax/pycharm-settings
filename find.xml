@@ -13,12 +13,13 @@
     <mask>*.ng</mask>
     <mask>*.html</mask>
     <mask>*.ats</mask>
-    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*music.js</mask>
     <mask>*-data.json</mask>
     <mask>*.css.ts</mask>
+    <mask>*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>

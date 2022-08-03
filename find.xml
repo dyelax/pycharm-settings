@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.xml</mask>
     <mask>*.htm</mask>
     <mask>*.shtml</mask>
@@ -17,8 +18,8 @@
     <mask>*music.js</mask>
     <mask>*-data.json</mask>
     <mask>*.css.ts</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>

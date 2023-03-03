@@ -17,8 +17,8 @@
     <mask>*music.js</mask>
     <mask>*-data.json</mask>
     <mask>*.css.ts</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
